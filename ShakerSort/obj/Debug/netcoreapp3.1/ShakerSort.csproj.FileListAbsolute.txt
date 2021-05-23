@@ -1,0 +1,13 @@
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\ShakerSort\bin\Debug\netcoreapp3.1\ShakerSort.exe
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\ShakerSort\bin\Debug\netcoreapp3.1\ShakerSort.deps.json
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\ShakerSort\bin\Debug\netcoreapp3.1\ShakerSort.runtimeconfig.json
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\ShakerSort\bin\Debug\netcoreapp3.1\ShakerSort.runtimeconfig.dev.json
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\ShakerSort\bin\Debug\netcoreapp3.1\ShakerSort.dll
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\ShakerSort\bin\Debug\netcoreapp3.1\ShakerSort.pdb
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\ShakerSort\obj\Debug\netcoreapp3.1\ShakerSort.csprojAssemblyReference.cache
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\ShakerSort\obj\Debug\netcoreapp3.1\ShakerSort.AssemblyInfoInputs.cache
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\ShakerSort\obj\Debug\netcoreapp3.1\ShakerSort.AssemblyInfo.cs
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\ShakerSort\obj\Debug\netcoreapp3.1\ShakerSort.csproj.CoreCompileInputs.cache
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\ShakerSort\obj\Debug\netcoreapp3.1\ShakerSort.dll
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\ShakerSort\obj\Debug\netcoreapp3.1\ShakerSort.pdb
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\ShakerSort\obj\Debug\netcoreapp3.1\ShakerSort.genruntimeconfig.cache

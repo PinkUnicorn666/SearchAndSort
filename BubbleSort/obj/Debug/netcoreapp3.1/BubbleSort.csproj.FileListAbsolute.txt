@@ -1,0 +1,13 @@
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.exe
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.deps.json
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.json
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.dev.json
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csprojAssemblyReference.cache
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfo.cs
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.genruntimeconfig.cache

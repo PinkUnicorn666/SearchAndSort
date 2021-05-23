@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pink6\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pink6\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BinSearch\bin\Debug\netcoreapp3.1\BinSearch.exe
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BinSearch\bin\Debug\netcoreapp3.1\BinSearch.deps.json
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BinSearch\bin\Debug\netcoreapp3.1\BinSearch.runtimeconfig.json
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BinSearch\bin\Debug\netcoreapp3.1\BinSearch.runtimeconfig.dev.json
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BinSearch\bin\Debug\netcoreapp3.1\BinSearch.dll
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BinSearch\bin\Debug\netcoreapp3.1\BinSearch.pdb
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BinSearch\obj\Debug\netcoreapp3.1\BinSearch.csprojAssemblyReference.cache
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BinSearch\obj\Debug\netcoreapp3.1\BinSearch.AssemblyInfoInputs.cache
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BinSearch\obj\Debug\netcoreapp3.1\BinSearch.AssemblyInfo.cs
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BinSearch\obj\Debug\netcoreapp3.1\BinSearch.csproj.CoreCompileInputs.cache
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BinSearch\obj\Debug\netcoreapp3.1\BinSearch.dll
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BinSearch\obj\Debug\netcoreapp3.1\BinSearch.pdb
+C:\Users\pink6\OneDrive\Рабочий стол\XXX\дзТайноеОбщество\MystSocHw\BinSearch\obj\Debug\netcoreapp3.1\BinSearch.genruntimeconfig.cache
